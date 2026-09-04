@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Puneet Bhandari",
+        "age": 20,
+        "email": "puneet@gmail.com",
+        "pin": 1234,
+        "accountNo.": "1234",
+        "balance": 0
+    },
+    {
+        "name": "harsh patel",
+        "age": 21,
+        "email": "harsh@gmail.com",
+        "pin": 4321,
+        "accountNo.": [
+            "78qwi&1"
+        ],
+        "balance": [
+            3000
+        ]
+    },
+    {
+        "name": "puneet bhandari",
+        "age": 20,
+        "email": "puneet@gmail.com",
+        "pin": "1234",
+        "accountNo.": "*31dSj7",
+        "balance": 0
+    },
+    {
+        "name": "manish",
+        "age": 20,
+        "email": "manish@gmail.com",
+        "pin": "9999",
+        "accountNo.": "L$B02F2",
+        "balance": 100.0
+    }
+]
